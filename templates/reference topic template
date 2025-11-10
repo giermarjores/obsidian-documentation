@@ -1,0 +1,42 @@
+# [Reference Title]
+
+## Overview
+[Brief description of what this reference covers]
+
+## [Category 1]
+
+| Item | Description | Example/Details ||------|-------------|-----------------|| [Item 1] | [Description] | [Example] || [Item 2] | [Description] | [Example] || [Item 3] | [Description] | [Example] |
+## [Category 2]
+
+### [Subcategory 2.1]
+- **[Item]**: [Description]
+- **[Item]**: [Description]
+
+### [Subcategory 2.2]
+- **[Item]**: [Description]
+- **[Item]**: [Description]
+
+## [Category 3]
+
+
+// END GENAI
+[Code example or syntax example]
+// START GENAI
+
+**Explanation**: [What the example demonstrates]
+
+## Quick Reference
+
+| Quick Lookup | Value |
+|--------------|-------|
+| [Item 1] | [Value] |
+| [Item 2] | [Value] |
+
+## Notes and Best Practices
+- [Best practice 1]
+- [Best practice 2]
+- [Best practice 3]
+
+## Related Topics
+- [Link to related topic 1]
+- [Link to related topic 2]
