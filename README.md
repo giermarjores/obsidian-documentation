@@ -36,7 +36,7 @@ This documentation is written for two primary audiences:
 
 ## 🚀 How to Access the Documentation
 
-All documentation content is located in the **[Project Wiki](https://github.com/YOUR_USERNAME/obsidian-documentation/wiki)**.
+All documentation content is located in the **[Project Wiki](https://github.com/giermarjores/obsidian-documentation)**.
 
 ### 👉 [Click here to view the full documentation](https://github.com/YOUR_USERNAME/obsidian-documentation/wiki)
 
