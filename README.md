@@ -38,7 +38,9 @@ This documentation is written for two primary audiences:
 
 All documentation content is located in the **[Project Wiki](https://github.com/giermarjores/obsidian-documentation)**.
 
-### 👉 [Click here to view the full documentation](https://github.com/YOUR_USERNAME/obsidian-documentation/wiki)
+### 👉 [Click here to view the full documentation](https://github.com/giermarjores/obsidian-documentation/wiki)
+
+### 👉 [Click here to watch the higlights of this project through a short video](https://github.com/giermarjores/obsidian-documentation/blob/main/Marjores%20Umpad%20-%20Obsidian%20Technical%20Documentation%20Project%20v2.mp4)
 
 The Wiki is organized into topic types, including concepts, tasks, and references, to provide a complete learning experience.
 
